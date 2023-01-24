@@ -20,6 +20,8 @@ Nice to meet you!😄
 
 ![php badge]<img src="[https://img.shields.io/badge/-tanreen1%40gmail.com-4285F4?style=flat-square&logo=Gmail&logoColor=white](https://img.shields.io/badge/-php-777BB4?style=flat-square&logo=PHP&logoColor=white)">
 
+![php badge](https://img.shields.io/badge/-php-777BB4?style=flat-square&logo=PHP&logoColor=white)
+
 <!--
 **Bnine/Bnine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
