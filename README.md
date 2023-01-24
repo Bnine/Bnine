@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bnine)](https://github.com/Bnine/github-readme-stats)
 ![Bnine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bnine&show_icons=true&theme=radical)
 
 <!--
