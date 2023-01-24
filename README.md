@@ -18,6 +18,8 @@ Nice to meet you!😄
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bnine)](https://github.com/Bnine/github-readme-stats)
 
+![php badge]<img src="[https://img.shields.io/badge/-tanreen1%40gmail.com-4285F4?style=flat-square&logo=Gmail&logoColor=white](https://img.shields.io/badge/-php-777BB4?style=flat-square&logo=PHP&logoColor=white)">
+
 <!--
 **Bnine/Bnine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
