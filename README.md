@@ -1,8 +1,27 @@
 ### Hi there 👋
 
+안녕하세요. 
+저는 미국🇺🇸, 베트남🇻🇳, 그리고 한국🇰🇷에서 
+다양한 프로젝트를 진행하며 여러가지 경험을 쌓은 김봉규 입니다.
+잘 부탁드립니다!😄
+
+Hello.
+I'm Bongkyu Kim, Who has various experiences 
+while working on various projects in the US🇺🇸, Vietnam🇻🇳 and Korea🇰🇷.
+Nice to meet you!😄
+
+こんにちは。
+私はアメリカ🇺🇸とベトナーム🇻🇳と韓国🇰🇷で働いて、色々な経験があるキムボンキュと申します。
+よろしくお願いします！😄
+
+<img src="https://img.shields.io/badge/-tanreen1%40gmail.com-4285F4?style=flat-square&logo=Gmail&logoColor=white">
+
+<img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bnine)](https://github.com/Bnine/github-readme-stats)
 ![Bnine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bnine&show_icons=true&theme=radical)
+
+
 
 <!--
 **Bnine/Bnine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
