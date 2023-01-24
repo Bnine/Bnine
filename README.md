@@ -11,7 +11,7 @@ while working on various projects in the US🇺🇸, Vietnam🇻🇳 and Korea�
 Nice to meet you!😄   
    
 こんにちは。   
-私はアメリカ🇺🇸とベトナーム🇻🇳と韓国🇰🇷で働いて、色々な経験があるキムボンキュと申します。   
+私はアメリカ🇺🇸とベトナム🇻🇳と韓国🇰🇷で働いて、色々な経験があるキムボンキュと申します。   
 よろしくお願いします！😄   
 
 ###Languages🧑🏻‍💻   
